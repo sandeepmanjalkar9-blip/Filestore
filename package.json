@@ -1,0 +1,13 @@
+{
+  "name": "telegram-file-bot",
+  "version": "1.0.0",
+  "description": "File sharing bot with force join",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "express": "^4.18.2"
+  }
+}
